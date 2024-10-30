@@ -1,0 +1,26 @@
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\bin\Debug\DTO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\bin\Debug\DTO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\obj\Debug\DTO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\DTO\obj\Debug\DTO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\bin\Debug\DTO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\bin\Debug\DTO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\obj\Debug\DTO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\DTO\obj\Debug\DTO.pdb

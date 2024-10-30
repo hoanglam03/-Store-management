@@ -1,0 +1,108 @@
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangnhap.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.Properties.Resources.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.GenerateResource.Cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangky.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.QuanLy.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe.licenses
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.NhapHang.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\bin\Debug\MySql.Data.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmBanHang.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmBanHang.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangnhap.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangky.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.NhapHang.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.Properties.Resources.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.QuanLy.resources
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.GenerateResource.Cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe.licenses
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmBanHang.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangnhap.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangky.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.NhapHang.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.Properties.Resources.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.QuanLy.resources
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.GenerateResource.Cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe.licenses
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\MySql.Data.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\MySql.Data.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\BUS.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\DTO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\bin\Debug\DAO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.AssemblyReference.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmBanHang.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangnhap.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.frmDangky.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.NhapHang.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.QuanLy.resources
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.GenerateResource.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe.licenses
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.CoreCompileInputs.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.csproj.CopyComplete
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.exe
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\GUI_Tier\obj\Debug\GUI_Tier.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\BUS.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\DTO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\MySql.Data.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\DAO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\BUS.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\DTO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\bin\Debug\DAO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.csproj.AssemblyReference.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.frmBanHang.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.frmDangnhap.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.frmDangky.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.NhapHang.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.Properties.Resources.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.QuanLy.resources
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.csproj.GenerateResource.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.exe.licenses
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.csproj.CoreCompileInputs.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.csproj.CopyComplete
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.exe
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\GUI_Tier\obj\Debug\GUI_Tier.pdb

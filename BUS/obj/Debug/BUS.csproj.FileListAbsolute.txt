@@ -1,0 +1,56 @@
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Demo\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+D:\D.Hoc_H.Tho\Nam 3\HK6\LT Q.Ly\Đồ án\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.xml
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+E:\HK2-2015-1016\Lap_trinh_Quan_Ly\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\BUS.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\BUS.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\DAO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\DTO.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\DAO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\DTO.pdb
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\bin\Debug\MySql.Data.xml
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\obj\Debug\BUS.dll
+C:\Users\2003h\OneDrive\Tài liệu\C# code\Doan_QLBTBDT\Doan_QLBTBDT\BUS\obj\Debug\BUS.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\BUS.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\BUS.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\DAO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\DTO.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\MySql.Data.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\DAO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\DTO.pdb
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\bin\Debug\MySql.Data.xml
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\obj\Debug\BUS.dll
+C:\Học Tập\Tài liệu khác\C# code\Quản lý cửa hàng\QLCH\BUS\obj\Debug\BUS.pdb
